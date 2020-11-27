@@ -4,6 +4,13 @@
 The typical taxi taffic faces a common problem of taxi taffic management &amp; efficiently assigning the cabs to passengers so that the service is smooth and hassle free.
 
 ** <h2>ABOUT THE DATA </h2>**
+*The provided*
+*data-vendor_lookup-csv.csv*
+ *data-payment_lookup-csv.csv*
+*data-sample_data-nyctaxi-trips-2009-json_corrigido.json*
+*data-sample_data-nyctaxi-trips-2011-json_corrigido.json*
+*data-sample_data-nyctaxi-trips-2010-json_corrigido.json*
+*data-sample_data-nyctaxi-trips-2012-json_corrigido.json*
 
 *Data fields used for doing my analysis*
 *vendor_id - a code indicating the provider associated with the trip record*
